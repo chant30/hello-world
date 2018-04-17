@@ -1,2 +1,2 @@
 # hello-world
-I like scratch and Python.
+I like Scratch and Python.
